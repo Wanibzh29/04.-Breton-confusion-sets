@@ -9,4 +9,5 @@ This work is based on this articles, this list is going to be longer than it is 
  
  https://simple.wikipedia.org/wiki/Commonly_misspelled_words
  
+ https://fr.wikibooks.org/wiki/Dictionnaire_des_quasi-synonymes_en_fran%C3%A7ais
  ...
